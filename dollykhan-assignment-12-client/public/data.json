@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Trip to Paris",
+    "summary": "A wonderful journey through Paris, exploring iconic landmarks like the Eiffel Tower, Louvre Museum, and charming streets filled with cafes and boutiques.",
+    "content": "Detailed description of the trip to Paris."
+  },
+  {
+    "id": 2,
+    "title": "Safari in Kenya",
+    "summary": "An exhilarating safari adventure in Kenya, witnessing diverse wildlife in their natural habitat, from majestic lions to graceful giraffes, in stunning landscapes.",
+    "content": "Detailed description of the safari in Kenya."
+  },
+  {
+    "id": 3,
+    "title": "Exploring Tokyo",
+    "summary": "A vibrant exploration of Tokyo's bustling cityscape, from traditional temples and serene gardens to cutting-edge technology and dynamic street culture.",
+    "content": "Detailed description of exploring Tokyo."
+  },
+  {
+    "id": 4,
+    "title": "Beach Holiday in Hawaii",
+    "summary": "A relaxing beach holiday in Hawaii, enjoying the sun, sand, and surf, with scenic views and a peaceful ambiance that rejuvenates the soul.",
+    "content": "Detailed description of the beach holiday in Hawaii."
+  }
+]
